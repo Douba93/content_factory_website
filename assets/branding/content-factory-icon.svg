@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Content Factory</title>
+  <rect width="64" height="64" fill="#11151d"/>
+  <g fill="#ffffff">
+    <path d="M30 16H19L12 23V41L19 48H30V41H22L19 38V26L22 23H30Z"/>
+    <path d="M34 16H52V23H41V29H50V36H41V48H34Z"/>
+  </g>
+</svg>
